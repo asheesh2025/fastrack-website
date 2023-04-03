@@ -6,4 +6,4 @@ This is individual project, Which I created during construct week in 5 days.
 
 I used HTML,CSS & JavaScript.
 
-Live Link - https://dapper-banoffee-12d50a.netlify.app/
+Live Link - https://cloneoffastrack.netlify.app/
